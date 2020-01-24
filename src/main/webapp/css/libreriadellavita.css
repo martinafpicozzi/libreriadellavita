@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body {
+    background-color: #CE7F75;
+    text-align: center;
+ 
+}
+
+h2 {
+	color: beige;
+	text-align: center;	
+	font-family: harrington;
+	
+}
+
+th {
+	color:#CE7F75;
+	font-family: harrington;
+	font-size: 16px;
+	
+}
+
+table {
+	background-color: beige;
+    border: 2px solid black;
+    margin-top: 5%;
+  
+margin-left: 5%;
+margin-right: 5%;
+ 
+}
+
+td, th {
+    padding: 3px;
+    text-align: center;
+}
+
+h1{
+	text-align: center;
+	font-family: harrington;
+}
+td.color {
+	color: red;
+}
+td.color {
+	text-decoration: line-through;
