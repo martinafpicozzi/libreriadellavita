@@ -1,11 +1,42 @@
 @charset "utf-8";
-.my2 {
-    background-color: #80c2d9;
-}
-input:hover {
-	backgroung-color: #cc9e33;
 
+
+
+
+.f {
+	background-color: #000000;
+	padding:5px;
 }
+
+p:hover {
+	background-color: #c1ffff;
+}
+
 p {
-	font-weight:bold;
+	font-weight: bold;
+	text-align:center;
+}
+
+.m{
+	background-color: #ffa87d;
+}
+h1{
+	color:white;
+	text-align:center;
+}
+
+#of{
+	text-align:center;
+}
+
+#sub{
+	text-align:center;
+}
+.container-fluid g{
+	text-align:center;
+}
+[type=text] {
+    background-color: white;
+    text-align:center;
+    
 }
