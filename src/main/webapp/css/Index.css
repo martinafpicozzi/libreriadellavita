@@ -1,4 +1,11 @@
 @charset "utf-8";
 .my2 {
-    background-color: lightblue;
+    background-color: #80c2d9;
+}
+input:hover {
+	backgroung-color: #cc9e33;
+
+}
+p {
+	font-weight:bold;
 }
